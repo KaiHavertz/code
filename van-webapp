@@ -3,5 +3,6 @@
  <van-sticky offset-top="{{ 44}}">
    ...
   </van-sticky>
+<!--  错误截图 :   https://gitee.com/jnrjnr/images/raw/master/image/image-20210413161501903.png   -->
   
   
