@@ -1,0 +1,7 @@
+ <!-- 在微信小程序中正常使用，在组件中报错： TypeError: Cannot read property 'top' of null
+    at index.js? [sm]:90  -->
+ <van-sticky offset-top="{{ 44}}">
+   ...
+  </van-sticky>
+  
+  
